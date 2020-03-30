@@ -1,0 +1,30 @@
+.myDiv {
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#myInput {
+  display: none;
+  margin: 0 auto;
+
+}
+
+#myParagraph {
+  display: none;
+  width: 180px;
+  margin: 5px auto;
+}
+
+.myDiv2 {
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.myDiv3 {
+  width: 400px;
+  margin: 0 auto;
+  text-align: left;
+
+}
